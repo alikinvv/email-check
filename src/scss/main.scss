@@ -116,6 +116,8 @@ label {
 	left: 20px;
 	color: #353a44;
 	transition: all .2s ease-in-out;
+	pointer-events: none;
+	user-select: none;
 }
 
 .letter {
