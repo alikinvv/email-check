@@ -8,4 +8,4 @@
 
 ![email-check](https://cdn.dribbble.com/users/1773016/screenshots/5732843/gif.gif)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-31485994-5/email-check)](https://github.com/alikinvv/email-check)
+[![Analytics](https://ga-beacon.appspot.com/UA-31485994-5/email-check-repo)](https://github.com/alikinvv/email-check)
